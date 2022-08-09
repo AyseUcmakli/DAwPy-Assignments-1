@@ -1,2 +1,2 @@
 # DAwPy-Assignments-1
-Assignment
+Assignment-1 çözümleri
